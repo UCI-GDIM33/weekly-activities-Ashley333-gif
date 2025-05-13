@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mat_Vertex
-  m_Shader: {fileID: -6465566751694194690, guid: d6a1e08ba359cce46b949f640f96fc8b,
+  m_Name: Mat_NormalDebug
+  m_Shader: {fileID: -6465566751694194690, guid: 05da4a251e6b8df4183bc226cb7cc7b5,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -119,7 +119,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &4856947749617596517
+--- !u!114 &8812313395750559175
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
